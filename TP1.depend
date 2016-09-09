@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1472281991 source:c:\users\aians\desktop\tp definitivo\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472280954 c:\users\aians\desktop\tp definitivo\tp1\funciones.h
+	"funciones.c"
+
+1472281543 c:\users\aians\desktop\tp definitivo\tp1\funciones.c
+	"funciones.h"
+
+1472686378 source:e:\facultad\materias\laboratorio y programacion 1\tp definitivo\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472686380 e:\facultad\materias\laboratorio y programacion 1\tp definitivo\tp1\funciones.h
+	"funciones.c"
+
+1473285910 e:\facultad\materias\laboratorio y programacion 1\tp definitivo\tp1\funciones.c
+	"funciones.h"
+
+1473391054 source:h:\ \facultad\materias\laboratorio y programacion 1\tp definitivo\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473389572 h:\ \facultad\materias\laboratorio y programacion 1\tp definitivo\tp1\funciones.h
+	"funciones.c"
+
+1473390318 h:\ \facultad\materias\laboratorio y programacion 1\tp definitivo\tp1\funciones.c
+	"funciones.h"
+
+1473428863 source:d:\documents and settings\mloprete\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473428863 d:\documents and settings\mloprete\desktop\tp1\funciones.h
+	"funciones.c"
+
+1473428880 d:\documents and settings\mloprete\desktop\tp1\funciones.c
+	"funciones.h"
+
