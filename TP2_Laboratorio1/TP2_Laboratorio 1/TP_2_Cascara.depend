@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1474515863 source:c:\users\aians\desktop\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1474515296 c:\users\aians\desktop\tp_2_cascara\tp_2_cascara\funciones.h
+	"funciones.c"
+	"funciones.h"
+
+1474515671 c:\users\aians\desktop\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1474576475 source:d:\documents and settings\mloprete\desktop\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1474576365 d:\documents and settings\mloprete\desktop\tp_2_cascara\tp_2_cascara\funciones.h
+	"funciones.c"
+	"funciones.h"
+
+1474577670 d:\documents and settings\mloprete\desktop\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1474660401 source:e:\casi terminado\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1474660428 e:\casi terminado\tp_2_cascara\tp_2_cascara\funciones.h
+	"funciones.c"
+	"funciones.h"
+
+1474660462 e:\casi terminado\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1474662678 source:d:\documents and settings\mloprete\desktop\tp_2_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1474660428 d:\documents and settings\mloprete\desktop\tp_2_final\funciones.h
+	"funciones.c"
+	"funciones.h"
+
+1474663884 d:\documents and settings\mloprete\desktop\tp_2_final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1474678539 source:c:\users\aians\desktop\tp_2_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1474678691 c:\users\aians\desktop\tp_2_final\funciones.h
+	"funciones.c"
+	"funciones.h"
+
+1474678736 c:\users\aians\desktop\tp_2_final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
